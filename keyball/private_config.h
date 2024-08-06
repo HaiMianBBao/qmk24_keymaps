@@ -52,11 +52,11 @@
 #define C07 NO_PIN
 #define C08 NO_PIN
 
-#define R01 21
-#define R02 22
-#define R03 23
-#define R04 28
-#define R05 29
+#define R01 20
+#define R02 10
+#define R03 9
+#define R04 8
+#define R05 NO_PIN
 #define R06 NO_PIN
 #define R07 NO_PIN
 #define R08 NO_PIN
