@@ -69,4 +69,4 @@
 #define SPI_CS_PIN      9
 #define PMW3610_IRQ_PIN 10
 
-#define DEBOUNCE 20
+#define DEBOUNCE 15
